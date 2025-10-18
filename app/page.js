@@ -20,7 +20,7 @@ export default function Page() {
             target="_blank"
             rel="noreferrer"
           >
-            Design Concept →
+            Dear Mr. Smith →
           </a>
         </div>
       </div>

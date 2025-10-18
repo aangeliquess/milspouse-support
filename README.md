@@ -10,6 +10,10 @@ Includes a PCS checklist, curated resources, and personal notes that automatical
 - 💬 About page explaining how the app works
 - 💾 Works completely offline — all data stored in your browser
 - ⚡ Built with [Next.js](https://nextjs.org) and easily deployable on [Vercel](https://vercel.com)
+- ## 🎨 Demo / Design
+View the original Claude concept:  
+[Claude Artifact →](https://claude.ai/public/artifacts/1b540ecf-2e2e-4c77-8a9e-8f1750d0cd2d)
+
 
 ## 🚀 How to Use
 1. Deploy it on [Vercel](https://vercel.com) (no setup needed).
